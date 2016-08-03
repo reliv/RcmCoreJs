@@ -18,7 +18,7 @@ return [
             'modules/rcm/rcm.js' => [],
             'modules/rcm/rcm.css' => [
                 // Placeholder css
-                '/modules/rcm-core-js/core/rcm.css'
+                '/modules/rcm-core-js/src/rcm.css'
             ],
             /**
              * Extended JS and css
