@@ -32,7 +32,7 @@ return [
                 '/bower_components/rcm-loading/dist/rcm-loading.min.js' => [],
                 '/bower_components/rcm-loading/dist/angular-rcm-loading.min.js' => [],
                 '/bower_components/rcm-loading/dist/jquery-loader.min.js' => [],
-                '/modules/rcm-core-js/core/rcm.js' => [],
+                '/modules/rcm-core-js/dist/rcm-core-js.js' => [],
             ],
             'pre-rcm' => [
             ],
@@ -40,10 +40,6 @@ return [
                 '/modules/rcm/rcm.js' => [],
             ],
             'post-rcm' => [
-                '/modules/rcm-core-js/core/rcm-api.js' => [],
-                '/modules/rcm-core-js/core/rcm-form-double-submit-protect.js' => [],
-                '/modules/rcm-core-js/core/rcm-bootstrap-alert-confirm.js' => [],
-                '/modules/rcm-core-js/core/rcm-popout-window.js' => [],
                 '/bower_components/angular-utils-pagination/dirPagination.js' => [],
             ],
             'pre-modules' => [
