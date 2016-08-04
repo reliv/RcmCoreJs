@@ -58,5 +58,11 @@
     "psr-4": {
       "RcmCoreJs\\": "src/"
     }
+  },
+  "extra": {
+    "asset-pattern-skip-version": "(-patch*)",
+    "asset-vcs-driver-options": {
+      "github-no-api": true
+    }
   }
 }
