@@ -35,7 +35,7 @@
     "bower-asset/angular-touch": "~1",
     "bower-asset/angular-bootstrap": "~1",
     "bower-asset/angular-translate": "~2",
-    "bower-asset/bootstrap": "^3.3",
+    "bower-asset/bootstrap": "~3.3",
     "bower-asset/bootbox": ">=4.3.0",
     "bower-asset/bootstrap-tabcollapse": ">=0.2.4",
     "bower-asset/html5shiv": ">=3.7.2",
