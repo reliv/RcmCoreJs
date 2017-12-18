@@ -25,6 +25,8 @@
     }
   ],
   "suggest": {
+    "npm-asset/promise-polyfill": "^6.1.0",
+    "npm-asset/whatwg-fetch": "^2.0.3",
     "bower-asset/angular": "~1",
     "bower-asset/angular-route": "~1",
     "bower-asset/angular-sanitize": "~1",
