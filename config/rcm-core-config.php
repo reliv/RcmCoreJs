@@ -18,6 +18,8 @@ return [
                         'conditional' => 'lt IE 9'
                     ]
                 ],
+                '/node_modules/promise-polyfill/promise.min.js' => [],
+                '/node_modules/whatwg-fetch/fetch.js' => [],
                 '/bower_components/jquery/dist/jquery.min.js' => [],
                 '/bower_components/jquery-migrate/jquery-migrate.min.js' => [],
                 // @todo Move this config to the modules that use it
@@ -33,6 +35,7 @@ return [
                 '/bower_components/rcm-loading/dist/angular-rcm-loading.min.js' => [],
                 '/bower_components/rcm-loading/dist/jquery-loader.min.js' => [],
                 '/modules/rcm-core-js/dist/rcm-core-js.js' => [],
+
             ],
             'pre-rcm' => [
             ],
