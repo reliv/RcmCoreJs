@@ -12,12 +12,6 @@ return [
          */
         'scripts' => [
             'libraries' => [
-                '/bower_components/es5-shim/es5-shim.min.js' => [
-                    'type' => 'text/javascript',
-                    'attrs' => [
-                        'conditional' => 'lt IE 9'
-                    ]
-                ],
                 '/bower_components/jquery/dist/jquery.min.js' => [],
                 '/bower_components/jquery-migrate/jquery-migrate.min.js' => [],
                 // @todo Move this config to the modules that use it
