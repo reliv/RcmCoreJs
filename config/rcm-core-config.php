@@ -18,8 +18,6 @@ return [
                         'conditional' => 'lt IE 9'
                     ]
                 ],
-                '/node_modules/promise-polyfill/promise.min.js' => [],
-                '/node_modules/whatwg-fetch/fetch.js' => [],
                 '/bower_components/jquery/dist/jquery.min.js' => [],
                 '/bower_components/jquery-migrate/jquery-migrate.min.js' => [],
                 // @todo Move this config to the modules that use it
