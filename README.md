@@ -1,4 +1,2 @@
-RCM Core JS
+[OLD HISTORICAL VERSION! WAS MOVED INTO reliv/rcm 2019-04-04!] 
 ===========
-
-## Core JS FILE for RCM ##
